@@ -1,16 +1,23 @@
-## Hi there 👋
+## Vivian Chaia
 
-<!--
-**vvnmond/vvnmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Systems Engineering and Information Technologies student`**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Vivian, born in Brazil and currently residing in Portugal. I am a student of [Systems Engineering and Information Technologies](https://www.ualg.pt/curso/1941) at the University of Algarve.
+
+Before that, I worked as a teacher in Brazil, acting as a **Social Inclusion Support Agent**, **Graphic Designer**, and **Programming Logic teacher for children** at the  
+[British International School](https://www.nobelalgarve.com/).  
+These experiences strengthened my skills in **logical reasoning**, **data organization**, and **educational technology**, and helped me to **translate requirements into organized solutions**.
+
+
+### 💡 Interests & Focus
+- Databases and data modeling  
+- SQL and relational database design  
+- Information systems  
+- Programming logic and structured problem solving  
+- Systems and basic infrastructure (Linux environments)  
+- Technology applied to education
+
+
+### 🔧 Languages & Tools
+`Python` • `SQL` • `Bash/Linux` • `Git` • `Programming Logic`
