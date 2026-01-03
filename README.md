@@ -20,7 +20,7 @@ These experiences strengthened my skills in **logical reasoning**, **data organi
 
 
 ### 🔧 Languages & Tools
-`Python` • `SQL` • `Bash/Linux` • `Git` • `Programming Logic`
+`Python` • `SQL` • `Bash/Linux` • `Git` • `Programming Logic` • `CSS`
 
 [📸Instagram](https://www.instagram.com/seu_usuario/) | [💼LinkedIn](https://www.linkedin.com/in/vivian-chaia-77a4b426a/)
 
