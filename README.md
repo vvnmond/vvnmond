@@ -5,8 +5,7 @@
 
 I am Vivian, born in Brazil and currently residing in Portugal. I am a student of [Systems Engineering and Information Technologies](https://www.ualg.pt/curso/1941) at the University of Algarve.
 
-Before that, I worked as a teacher in Brazil, acting as a **Social Inclusion Support Agent**, **Graphic Designer**, and **Programming Logic teacher for children** at the  
-[British International School](https://www.nobelalgarve.com/).  
+Before that, I worked as a teacher in Brazil, acting as a **Social Inclusion Support Agent**, **Graphic Designer**, and **Programming Logic teacher for children** at the [British International School](https://www.nobelalgarve.com/).  
 These experiences strengthened my skills in **logical reasoning**, **data organization**, and **educational technology**, and helped me to **translate requirements into organized solutions**.
 
 
